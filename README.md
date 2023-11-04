@@ -1,2 +1,8 @@
 # todolist-practice
-This is a nodejs practice project, a to-do list dynamic site that uses a MongoDB database to store to-do items. It allows you to create, and read to-do items, as well as mark them as complete.
+This ToDoList App is a practice project, a dynamic web application built with Node.js and MongoDB. This project serves as a practical example of how to create a ToDo list that enables users to efficiently manage their tasks.
+
+## Features
+- Create To-Do Items: Easily add new tasks to your list to keep track of what needs to be done.
+- Read To-Do Items: View your existing tasks at a glance to stay organized and focused.
+- Mark as Complete: Check off tasks once they're finished to maintain an up-to-date list of accomplishments.
+- Persistent Storage: Your to-do items are stored in a MongoDB database, ensuring data integrity and accessibility.
