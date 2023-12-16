@@ -10,3 +10,4 @@ This ToDoList App is a practice project, a dynamic web application built with No
 
 ## Technologies Used
 - **CSS:** Custom styling is implemented using CSS to create an aesthetically pleasing design.
+- **Nodejs:** This powerful backend technology seamlessly manages data, ensuring the security and accessibility.
