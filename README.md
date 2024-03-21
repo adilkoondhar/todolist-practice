@@ -14,3 +14,4 @@ This ToDoList App is a practice project, a dynamic web application built with No
 - **EJS:** EJS is used to embed JavaScript code within HTML to create dynamic content.
 - **JavaScript:** A versatile scripting language used for building interactive web pages.
 - **Expressjs:** Powerful Node.js framework for building web apps & APIs.
+- **npm:** The default package manager for Node.js, facilitating easy dependency management.
