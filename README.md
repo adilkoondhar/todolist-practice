@@ -16,3 +16,4 @@ This ToDoList App is a practice project, a dynamic web application built with No
 - **Expressjs:** Powerful Node.js framework for building web apps & APIs.
 - **npm:** The default package manager for Node.js, facilitating easy dependency management.
 - **Mongoose:** Simplifies interacting with MongoDB in Node.js by offering schemas, queries, and abstraction.
+- **MongoDB:** A flexible NoSQL database program utilizing JSON-like documents for data storage.
